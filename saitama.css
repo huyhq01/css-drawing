@@ -11,7 +11,16 @@
     border-bottom-right-radius: 60%;
     border: solid 1px black;
 }
-
+.light{
+    position: absolute;
+    width: 20px;
+    height: 30px;
+    border-radius: 50%;
+    left: 190px;
+    top: 40px;
+    transform: rotate(-30deg);
+    background-color: #e4ceb9;
+}
 .ear {
     position: absolute;
     width: 47px;
